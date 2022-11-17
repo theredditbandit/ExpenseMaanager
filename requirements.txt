@@ -1,0 +1,5 @@
+black
+pytest
+matplotlib
+pandas
+numpy
