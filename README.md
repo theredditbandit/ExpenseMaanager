@@ -1,1 +1,1 @@
-# ExpenseMaanager
+# ExpenseManager
